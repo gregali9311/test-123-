@@ -1,0 +1,133 @@
+.card-header{ 
+    background-color: hsl(217, 71%, 53%);
+}
+
+.card {
+    width: 15%;
+    margin: 2%;
+    display: inline-block;
+}
+
+.card-content{
+    background-color: rgb(243, 239, 239);
+
+
+}
+
+.desc {
+    background-color: white;
+    border-radius: 3px;
+    padding-left: 3px;
+}
+
+.columns{ 
+    /* background-color: hsl(348, 100%, 61%); */
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.headerdesc {
+    font-size: xx-large;
+}
+
+.buddapic{
+    height: 250px;
+    width: 250px;
+}
+
+/* .field{
+    width: 40%;
+    height: 35%;
+    padding-left: 7%;
+} */
+
+.emoji{
+    width: 70px;
+    height: 70px;   
+    display: block;
+}
+
+/* .radio {
+    margin-left: 9%;
+    margin-right: 9%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+} */
+
+/* .checkbox{
+    display: flex;
+    justify-content: left;
+} */
+#disp{
+    display: flex;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+
+}
+
+.checkbox {
+    /* border: solid blue 5PX; */
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+.feeldesc{
+    margin-top: 15%;
+ 
+    display: inline-block;
+    font-size: x-large;
+    color: white;
+}
+
+#backgroundmain{
+    background-color: hsl(171, 100%, 41%);
+    margin-top: 15%;
+    border-radius: 5px;
+
+}
+
+.emoji1{
+    width: 80px;
+    height: 80px;   
+    display: block;
+
+}
+
+
+
+#activitysect{
+    display: inline-block;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 15%;
+
+    background-color: hsl(217, 71%, 53%);
+    border-radius: 5px;
+
+}
+
+.activitydesc{
+    color: white;
+}
+
+.emoji2{
+    width: 80px;
+    height: 80px;   
+    display: block;
+    padding: 5px;
+}
+
+#activitysect2{
+    display: inline-block;
+    /* margin-left: 2%; */
+    margin-right: 2%;
+    margin-top: 15%;
+
+    background-color: hsl(348, 100%, 61%);
+    border-radius: 5px;
+
+}

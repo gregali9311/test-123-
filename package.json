@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "connect-session-sequelize": "^7.1.5",
+    "dotenv": "^16.0.2",
+    "express-handlebars": "^6.0.6",
+    "express-mustache": "^1.0.4",
+    "express-session": "^1.17.3",
+    "express.js": "^1.0.0",
+    "iu": "^0.0.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "node.js": "^0.0.1-security",
+    "sequelize": "^6.23.1"
+  }
+}
